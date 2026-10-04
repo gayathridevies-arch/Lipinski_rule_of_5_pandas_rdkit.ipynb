@@ -1,6 +1,6 @@
 # Computational Molecular Property Analysis & 3D Structural Modeling Toolkit
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR-USERNAME/YOUR-REPO-NAME/blob/main/your_notebook_name.ipynb)
+[![Open In Colab](https://colab.research.google.com/github/YOUR-USERNAME/YOUR-REPO-NAME/blob/main/your_notebook_name.ipynb)
 
 A Python-based computational chemistry workflow that processes molecular blueprints (SMILES), calculates physicochemical descriptors, applies medicinal chemistry screening rules (Lipinski's Rule of Five and Veber's criteria), performs statistical data analysis, and executes 3D molecular geometry generation with interactive visualization.
 
